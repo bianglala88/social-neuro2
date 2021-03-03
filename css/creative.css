@@ -63,7 +63,7 @@ p {
 }
 
 .text-faded {
-    color:#00693e;
+    color: rgba(255,255,255,.7);
 }
 
 section {
