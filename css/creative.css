@@ -16,7 +16,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #003E69;
+    border-color: #00693e;
     border-width: 3px;
 }
 
@@ -25,7 +25,7 @@ hr.light {
 }
 
 a {
-    color: #003E69;
+    color: #00693e;
     /*text-decoration: underline;*/
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
@@ -54,7 +54,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #003E69;
+    background-color: #00693e;
 }
 
 .bg-dark {
